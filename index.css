@@ -1,0 +1,9 @@
+.main-header {
+    position: relative;
+    z-index: 15;
+    display: flex;
+    flex-direction: column;
+    font-size: 13px;
+    color: rgb(123, 66, 176);
+    background-color: bisque;
+}
